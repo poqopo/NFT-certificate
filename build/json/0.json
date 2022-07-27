@@ -1,0 +1,23 @@
+{
+  "name": "For Example #0",
+  "description": "Test for NFT description",
+  "image": "https://bigdata-policing.kr/0.png",
+  "attributes": [
+    {
+      "trait_type": "ordernumber",
+      "value": "OM202207060000001678"
+    },
+    {
+      "trait_type": "orderdate",
+      "value": "2022-01-01 01:00:00 KST"
+    },
+    {
+      "trait_type": "dataname",
+      "value": "행정동별 보이스피싱 신고 데이터"
+    },
+    {
+      "trait_type": "datatype",
+      "value": "csv/text"
+    }
+  ]
+}

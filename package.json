@@ -1,0 +1,23 @@
+{
+  "name": "nft_certificate_system",
+  "version": "1.1.1",
+  "description": "MFTcerticate",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "update_info": "node utils/update_info.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "sha1": "^1.1.1"
+  }
+}
